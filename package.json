@@ -1,0 +1,13 @@
+{
+  "name": "Q9_yarn_w_jquery",
+  "version": "1.0.0",
+  "description": "create a package.json file with yarn, add jquery as a dependency",
+  "main": "index.js",
+  "repository": "https://github.com/GraffN/Yarn.git",
+  "author": "Jørgen Graff",
+  "license": "isc",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
